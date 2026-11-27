@@ -48,3 +48,7 @@ For each day record: circuit inferred; bug encountered; failing test; fix; one r
 - This module taught me how to instantiate a module within a top module and map specific ports in the submodule to ones in the top module
 - You can't use 'Instance' as the instance name since that's a keyword
 - you use the format `mod_name inst_name(.mod_port(top_port), ...);`
+
+### Lab (Pixel Mux)
+
+![pixel mux circuit](circuit_sketches/1_pixel_mux.png)
